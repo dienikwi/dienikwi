@@ -1,13 +1,29 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9300a9&height=120&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-## Hello World 💜
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9300a9&size=35&center=true&vCenter=true&width=900&lines=Hello,+my+name+is+Dienifer+Kwiatkowski;I+am+a+Fullstack+Developer;Welcome!+:%29)](https://git.io/typing-svg)
+
+## Um pouco sobre mim 💜
 
 <p align="left"> 
-  Eu sou a <strong>Dienifer Kwiatkowski</strong>.<br>
   Atualmente, sou estagiária de desenvolvimento Full-Stack na Sicredi.<br>
   Estou cursando o 2º semestre de Análise e Desenvolvimento de sistemas no IFSul.
 </p>
 
+<br><br>
+
+<a href="https://github.com/dienikwi/"> 
+  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=dienikwi&show_icons=true&theme=dracula&bg_color=0d1117&incllude_all_commits=true&count_private=true"/>
+</a>
+
+<a href="https://github.com/dienikwi/"> 
+    <img
+      align="center"
+      height="150"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dienikwi&&layout=compact&theme=dark&bg_color=0d1117"
+    />
+</a>
+
+<br><br><br>
 <p align="left">
   💌 Entre em contato comigo: ⤵️
 </p>
@@ -25,3 +41,5 @@
   <a href="https://www.instagram.com/dienikwi/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9300a9&height=120&section=footer"/>
