@@ -10,18 +10,14 @@
 </p>
 
 <br><br>
-
-<a href="https://github.com/dienikwi/"> 
-  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=dienikwi&show_icons=true&theme=dracula&bg_color=0d1117&incllude_all_commits=true&count_private=true"/>
-</a>
-
 <a href="https://github.com/dienikwi/"> 
     <img
       align="center"
-      height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dienikwi&&layout=compact&theme=dark&bg_color=0d1117"
+      height="180"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dienikwi&show_icons=true&theme=dracula&layout=compact"
     />
 </a>
+
 
 <br><br><br>
 <p align="left">
